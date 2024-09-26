@@ -2,7 +2,6 @@ import tempfile
 import numpy as np
 
 import streamlit as st
-from ultralytics import YOLO
 from detection import create_colors_info, detect
 
 
