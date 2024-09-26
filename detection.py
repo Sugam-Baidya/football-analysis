@@ -4,9 +4,6 @@ import pandas as pd
 import streamlit as st
 
 
-
-from sklearn.metrics import mean_squared_error
-
 import os
 import json
 import yaml
